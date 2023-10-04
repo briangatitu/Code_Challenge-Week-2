@@ -1,5 +1,5 @@
 setPage(); 
-
+ 
 
 function setPage() {
     getAnimalNames(); 
